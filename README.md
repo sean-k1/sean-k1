@@ -15,7 +15,7 @@
 삼성 청년 소프트웨어 5기 (2021.01 ~ 2021.06)  
 
 
-## 🧑‍💻GitHub Activity  </br>[![trophy](https://github-profile-trophy.vercel.app/?username=Umhyunsik&rank=S,A,AA,AAA,B,BB,BBB,C,CC,CCC)](https://github.com/Umhyunsik)</br> 
+## 🧑‍💻GitHub Activity  </br>[![trophy](https://github-profile-trophy.vercel.app/?username=sean-k1&rank=S,A,AA,AAA,B,BB,BBB,C,CC,CCC)](https://github.com/sean-k1)</br> 
 
 ## 💻Language  </br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umhyunsik&layout=compact)](https://github.com/Umhyunsik)</br>
 
