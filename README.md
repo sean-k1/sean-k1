@@ -14,9 +14,4 @@
 ## 👀교육 
 삼성 청년 소프트웨어 5기 (2021.01 ~ 2021.06)  
 
-
-## 🧑‍💻GitHub Activity  </br>[![trophy](https://github-profile-trophy.vercel.app/?username=sean-k1&rank=S,A,AA,AAA,B,BB,BBB,C,CC,CCC)](https://github.com/sean-k1)</br> 
-
-## 💻Language  </br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-k1&layout=compact)](https://github.com/sean-k1)</br>
-
 ## 🔑Algorithm  </br>[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uhs20000)](https://solved.ac/uhs20000)
