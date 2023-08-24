@@ -20,3 +20,4 @@ in-progress
 
 MERGED
 - https://github.com/julien-duponchelle/python-mysql-replication/pull/414
+- https://github.com/julien-duponchelle/python-mysql-replication/pull/431
