@@ -16,6 +16,7 @@
 ### contribute 
 in-progress
 - https://github.com/osheroff/mysql-binlog-connector-java/pull/121
+- https://github.com/julien-duponchelle/python-mysql-replication/pull/446
 
 MERGED
 - https://github.com/julien-duponchelle/python-mysql-replication/pull/414
