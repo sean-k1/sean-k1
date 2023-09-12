@@ -17,10 +17,11 @@
 in-progress
 - https://github.com/osheroff/mysql-binlog-connector-java/pull/121
 - https://github.com/julien-duponchelle/python-mysql-replication/pull/446
-- https://github.com/julien-duponchelle/python-mysql-replication/pull/471
 
 MERGED
 - https://github.com/julien-duponchelle/python-mysql-replication/pull/414
 - https://github.com/julien-duponchelle/python-mysql-replication/pull/431
+- https://github.com/julien-duponchelle/python-mysql-replication/pull/471
 - https://github.com/go-mysql-org/go-mysql/pull/813
 - https://github.com/julien-duponchelle/python-mysql-replication/pull/440
+- https://github.com/julien-duponchelle/python-mysql-replication/pull/472
