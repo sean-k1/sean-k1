@@ -22,6 +22,7 @@ MERGED
 - https://github.com/julien-duponchelle/python-mysql-replication/pull/471
 - https://github.com/julien-duponchelle/python-mysql-replication/pull/414
 - https://github.com/julien-duponchelle/python-mysql-replication/pull/431
+- https://github.com/julien-duponchelle/python-mysql-replication/pull/477
 - https://github.com/go-mysql-org/go-mysql/pull/813
 - https://github.com/julien-duponchelle/python-mysql-replication/pull/440
 - https://github.com/julien-duponchelle/python-mysql-replication/pull/472
