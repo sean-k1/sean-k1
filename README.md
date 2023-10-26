@@ -51,7 +51,7 @@ Open-Source Software Contribution Academy 3rd place out of 20 teams
 
 |PR|Contribution|
 |------|---|
-https://github.com/go-mysql-org/go-mysql/pull/813 | Add VisibilityBitmap to TableMapEvent in replication
+[PR](https://github.com/go-mysql-org/go-mysql/pull/813) | Add VisibilityBitmap to TableMapEvent in replication
 
 
  
