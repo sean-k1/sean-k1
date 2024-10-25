@@ -28,7 +28,7 @@ Open-Source Software Contribution Academy 3rd place out of 20 teams
 |PR|Contribution|
 |------|---|
 [PR](https://github.com/debezium/debezium/pull/4959)| Fix Bug when Connection resumed Fake Rotate Event side effect
-
+[PR](https://github.com/debezium/debezium-connector-spanner/pull/91)| Align min, max of Histogram/Statistics
 <h3> mysql-binlog-connector-java (Debezium Binlog Client) </h3>
 
 |PR|Contribution|
