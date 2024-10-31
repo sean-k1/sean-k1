@@ -34,6 +34,7 @@ Open-Source Software Contribution Academy 3rd place out of 20 teams
 |PR|Contribution|
 |------|---|
 [PR](https://github.com/osheroff/mysql-binlog-connector-java/pull/121)| Fix bug signedness order change to All Column Order
+[PR](https://github.com/osheroff/mysql-binlog-connector-java/pull/136)| hot fix optional metadata Extraction
 
 <h3> python-mysql-replication </h3> 
 
