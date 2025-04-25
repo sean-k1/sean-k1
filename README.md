@@ -4,12 +4,6 @@
 # 🏃‍♂️steady
 </div>
 
-Hi I'm a backend developer and I'm also interested in data engineering.
-
-I'm currently working as a python-mysql-replication maintainer.
-It is a Python project that can be utilized as a CDC and Audit based on Mysql binlog.
-
-
 ## 🧑‍🔧Careers
 Kakaoentertainment (2021.12~) 
 Melon Commerce Back-end team
